@@ -61,6 +61,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Utility\IniFile.cs" />
+    <None Include="Assets\HaTuyet\HaTuyet_Note.txt" />
+    <None Include="Assets\BinhLinh\BinhLinh_Note.txt" />
+    <None Include="Assets\SonNN\SonNN_Note.txt" />
+    <None Include="Assets\AnhNN\AnhNN_Note.txt" />
+    <None Include="Assets\TriHoang\TriHoang_Note.txt" />
+    <None Include="Assets\DungTQ\DungTQ_Note.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>F:/Projects/V1_NCKH/NCKH_1920/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
